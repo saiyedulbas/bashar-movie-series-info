@@ -1,6 +1,7 @@
 {
-  "name": "movies-series-app",
-  "version": "0.1.0",
+  "title": "bashar_movie_series_info_app",
+  "author": "Saiyedul Bashar",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
